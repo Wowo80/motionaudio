@@ -1,0 +1,14 @@
+# format: Supported types: mp4, avi, mkv, etc.
+# output_dir: Use {BROWSE} to open file explorer for selecting the path
+# default_name: Use {AUDIO} for the audio file name or {IMAGE} for the image file name
+# audio_browse_path: Use {SYSTEM_MUSIC} for system music directory
+# image_browse_path: Use {SYSTEM_PICTURES} for system pictures directory
+# output_browse_path: Use {SYSTEM_VIDEOS} for system videos directory
+[DEFAULT]
+format = 'mp4'
+output_dir = '{BROWSE}'
+default_name = '{AUDIO}'
+audio_browse_path = '{SYSTEM_MUSIC}'
+image_browse_path = '{SYSTEM_PICTURES}'
+output_browse_path = '{SYSTEM_VIDEOS}'
+
