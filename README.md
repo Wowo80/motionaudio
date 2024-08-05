@@ -33,7 +33,7 @@ cd motionaudio
 ```
 ### 3. Install ffmpeg:
 
-  - Windows: Download and install from ffmpeg.org.
+  - Windows: Download and install from [ffmpeg.org](ffmpeg.org)
   - macOS: Use Homebrew: brew install ffmpeg
   - Linux: Use your package manager, e.g., sudo apt install ffmpeg
 
