@@ -23,7 +23,7 @@ MotionAudio is a Python script that creates a video from an audio file and an im
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/motionaudio.git
+git clone https://github.com/wowo80/motionaudio.git
 cd motionaudio
 ```
 
