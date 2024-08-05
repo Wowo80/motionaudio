@@ -20,18 +20,18 @@ MotionAudio is a Python script that creates a video from an audio file and an im
 
 ## Installation
 
-### 1. Clone the repository:
+1. Clone the repository:
 
 ```
 git clone https://github.com/yourusername/motionaudio.git
 cd motionaudio
 ```
 
-### 2. Install the required Python packages:
+2. Install the required Python packages:
 ```
     pip install PyQt5 Pillow
 ```
-### 3. Install ffmpeg:
+3. Install ffmpeg:
 
   - Windows: Download and install from [ffmpeg.org](ffmpeg.org)
   - macOS: Use Homebrew: brew install ffmpeg
